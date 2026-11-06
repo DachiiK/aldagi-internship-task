@@ -1,0 +1,66 @@
+{
+  "total_input_records": 30,
+  "processed_records": 23,
+  "rejected_records": 7,
+  "requests_by_month": {
+    "2026-01": 3,
+    "2026-02": 4,
+    "2026-03": 3,
+    "2026-04": 3,
+    "2026-05": 3,
+    "2026-06": 3,
+    "2026-07": 2,
+    "2026-08": 1,
+    "2026-09": 1
+  },
+  "requests_by_channel": {
+    "web": 10,
+    "email": 8,
+    "call": 5
+  },
+  "requests_by_month_and_channel": {
+    "2026-01": {
+      "web": 1,
+      "email": 1,
+      "call": 1
+    },
+    "2026-02": {
+      "web": 2,
+      "email": 1,
+      "call": 1
+    },
+    "2026-03": {
+      "call": 1,
+      "web": 2
+    },
+    "2026-04": {
+      "email": 2,
+      "web": 1
+    },
+    "2026-05": {
+      "web": 2,
+      "email": 1
+    },
+    "2026-06": {
+      "web": 2,
+      "email": 1
+    },
+    "2026-07": {
+      "email": 1,
+      "call": 1
+    },
+    "2026-08": {
+      "email": 1
+    },
+    "2026-09": {
+      "call": 1
+    }
+  },
+  "average_amount_gel": 1022.55,
+  "average_amount_gel_excluding_zero": 1383.45,
+  "amounts_used_in_average": 23,
+  "records_without_gel_amount": 0,
+  "requests_by_category": {
+    "კატეგორიის გარეშე": 23
+  }
+}
